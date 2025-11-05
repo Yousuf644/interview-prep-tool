@@ -1,0 +1,20 @@
+0 verbose cli C:\Program Files\nodejs\node.exe C:\Program Files\nodejs\node_modules\npm\bin\npm-cli.js
+1 info using npm@11.6.1
+2 info using node@v24.11.0
+3 silly config load:file:C:\Program Files\nodejs\node_modules\npm\npmrc
+4 silly config load:file:C:\Users\HP\.npmrc
+5 silly config load:file:C:\Users\HP\interview-prep-tool\%APPDATA%\npm\etc\npmrc
+6 verbose title npm uninstall create-react-app
+7 verbose argv "uninstall" "--global" "create-react-app"
+8 verbose logfile logs-max:10 dir:C:\Users\HP\interview-prep-tool\%USERPROFILE%\AppData\Local\npm-cache\_logs\2025-11-04T06_33_02_299Z-
+9 verbose logfile C:\Users\HP\interview-prep-tool\%USERPROFILE%\AppData\Local\npm-cache\_logs\2025-11-04T06_33_02_299Z-debug-0.log
+10 silly packumentCache heap:4496293888 maxSize:1124073472 maxEntrySize:562036736
+11 silly logfile done cleaning log files
+12 silly idealTree buildDeps
+13 silly reify moves {}
+14 verbose cwd C:\Users\HP\interview-prep-tool
+15 verbose os Windows_NT 10.0.26200
+16 verbose node v24.11.0
+17 verbose npm  v11.6.1
+18 verbose exit 0
+19 info ok

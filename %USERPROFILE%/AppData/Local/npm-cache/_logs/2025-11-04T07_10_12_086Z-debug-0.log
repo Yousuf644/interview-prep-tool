@@ -1,0 +1,36 @@
+0 verbose cli C:\Program Files\nodejs\node.exe C:\Program Files\nodejs\node_modules\npm\bin\npm-cli.js
+1 info using npm@11.6.1
+2 info using node@v24.11.0
+3 silly config load:file:C:\Program Files\nodejs\node_modules\npm\npmrc
+4 silly config load:file:C:\Users\HP\interview-prep-tool\.npmrc
+5 silly config load:file:C:\Users\HP\.npmrc
+6 silly config load:file:C:\Users\HP\AppData\Roaming\npm\etc\npmrc
+7 verbose title npm exec create-react-app frontend --use-npm
+8 verbose argv "exec" "--" "create-react-app" "frontend" "--use-npm"
+9 verbose logfile logs-max:10 dir:C:\Users\HP\interview-prep-tool\%USERPROFILE%\AppData\Local\npm-cache\_logs\2025-11-04T07_10_12_086Z-
+10 verbose logfile C:\Users\HP\interview-prep-tool\%USERPROFILE%\AppData\Local\npm-cache\_logs\2025-11-04T07_10_12_086Z-debug-0.log
+11 silly logfile done cleaning log files
+12 silly packumentCache heap:4496293888 maxSize:1124073472 maxEntrySize:562036736
+13 http fetch GET 200 https://registry.npmjs.org/create-react-app 801ms (cache miss)
+14 silly packumentCache heap:4496293888 maxSize:1124073472 maxEntrySize:562036736
+15 verbose Could not read global path C:\Users\HP\AppData\Roaming\npm, ignoring
+16 silly packumentCache heap:4496293888 maxSize:1124073472 maxEntrySize:562036736
+17 verbose stack Error: spawn Downloads ENOENT
+17 verbose stack     at ChildProcess._handle.onexit (node:internal/child_process:286:19)
+17 verbose stack     at onErrorNT (node:internal/child_process:484:16)
+17 verbose stack     at process.processTicksAndRejections (node:internal/process/task_queues:90:21)
+18 verbose pkgid backend@1.0.0
+19 error code ENOENT
+20 error syscall spawn Downloads
+21 error path C:\Users\HP\interview-prep-tool
+22 error errno -4058
+23 error enoent spawn Downloads ENOENT
+24 error enoent This is related to npm not being able to find a file.
+24 error enoent
+25 verbose cwd C:\Users\HP\interview-prep-tool
+26 verbose os Windows_NT 10.0.26200
+27 verbose node v24.11.0
+28 verbose npm  v11.6.1
+29 verbose exit -4058
+30 verbose code -4058
+31 error A complete log of this run can be found in: C:\Users\HP\interview-prep-tool\%USERPROFILE%\AppData\Local\npm-cache\_logs\2025-11-04T07_10_12_086Z-debug-0.log
